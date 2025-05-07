@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/levimotaa/extensionista/static/css/main.994c0bf4.css",
+    "main.js": "/levimotaa/extensionista/static/js/main.00ac0ffd.js",
+    "static/js/453.8333a723.chunk.js": "/levimotaa/extensionista/static/js/453.8333a723.chunk.js",
+    "index.html": "/levimotaa/extensionista/index.html",
+    "main.994c0bf4.css.map": "/levimotaa/extensionista/static/css/main.994c0bf4.css.map",
+    "main.00ac0ffd.js.map": "/levimotaa/extensionista/static/js/main.00ac0ffd.js.map",
+    "453.8333a723.chunk.js.map": "/levimotaa/extensionista/static/js/453.8333a723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.994c0bf4.css",
+    "static/js/main.00ac0ffd.js"
+  ]
+}
